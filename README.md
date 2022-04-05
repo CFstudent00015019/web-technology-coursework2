@@ -29,3 +29,5 @@ node app
 - pug.js
 
 ### Web application repository on github
+[link to github][https://github.com/CFstudent00015019/web-technology-coursework2.git]
+[link to glitch][https://cheddar-enchanting-soursop.glitch.me]
